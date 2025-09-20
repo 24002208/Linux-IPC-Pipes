@@ -5,8 +5,8 @@ Linux-IPC-Pipes
 # Ex03-Linux IPC - Pipes
 
 ## DATE: 20.09.2025
-## NAME : DIVYA LAKSHMI M
-## REGISTER NO : 212224040082
+## NAME : DHAMINI S
+## REGISTER NO : 212224040064
 
 # AIM:
 To write a C program that illustrate communication between two process using unnamed and named pipes
